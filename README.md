@@ -1,4 +1,8 @@
-### Hi there 👋
+## My streak✨
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FxFurEN&theme=omni&hide_border=true&mode=weekly&card_width=400)](https://git.io/streak-stats)
+
+## My solved problems😄
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=FxFurEN&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **FxFurEN/FxFurEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
