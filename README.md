@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FxFurEN&theme=omni&hide_border=true&mode=weekly&card_width=400)](https://git.io/streak-stats)       [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=FxFurEN&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FxFurEN&theme=omni&hide_border=true&mode=weekly&card_width=400)](https://git.io/streak-stats)       [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=FxFurEN1&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--
