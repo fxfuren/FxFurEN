@@ -4,8 +4,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FxFurEN&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  [![GitHub Streak](https://streak-stats.demolab.com?user=FxFurEN&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=380&card_height=222)](https://git.io/streak-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxfuren&theme=tokyonight&layout=compact) 
 
 ### Codewars :
 ![Codewars](https://www.codewars.com/users/FxFurEN/badges/large)
