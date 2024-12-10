@@ -3,10 +3,17 @@
   <img height="200" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif"  />
 </p>
 
+### Github stats :
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=FxFurEN&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  [![GitHub Streak](https://streak-stats.demolab.com?user=FxFurEN&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=380&card_height=222)](https://git.io/streak-stats)
+
+
 
 ### Codewars :
 ![Codewars](https://www.codewars.com/users/FxFurEN/badges/large)
+
+### My activity :
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FxFurEN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --- 
 ### Languages and Tools :
