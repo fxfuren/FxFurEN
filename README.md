@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nikita </h1>
-<p align="center">
+<h1 align="center">Hi 👋, I'm Nikita</h1>
+
+<div align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F79333&center=true&vCenter=true&width=435&lines=PROJECT+ROUT)](https://git.io/typing-svg)
+
   <img height="200" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif"  />
-</p>
+
+</div>
 
 ### Github stats :
 
@@ -11,9 +16,6 @@
 
 ### Codewars :
 ![Codewars](https://www.codewars.com/users/FxFurEN/badges/large)
-
-### My activity :
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FxFurEN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --- 
 ### Languages and Tools :
