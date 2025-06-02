@@ -2,7 +2,7 @@
 
 <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F79333&center=true&vCenter=true&width=435&lines=PROJECT+ROUT)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F79333&center=true&vCenter=true&width=435&lines=DenDen+DEV)](https://git.io/typing-svg)
 
   <img height="200" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif"  />
 
