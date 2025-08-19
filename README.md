@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
 
 <div align="center">
+<pre>
+         ..:-:::-::-::.        .-=#-::::.              ........                                     
+      .--:..         .:=-              .:-=-.   .------:+.==:::---:.                                
+   .--.                 +#.                -##*+::.               .-+:                              
+  -=.                    ##.             -+#*-+#-.                   =+                             
+ +-                      #%*          .=#%#-   .=*+:             ...  #-       =.                   
++=                      =##*        .+#%*:        -+*+.         #%%*  #=     .+-                    
+%.                    .*%#%-      :##%#-            .-===-.     -+-:.--     =#.                     
+%.                   :####-     .+#%#+                   .--=--==--::.    .+%:        .             
+=+.                 =##%#:     -#%%+.     -+=+::-+#*+.     .=+++.   +#:#####+-=.  -+++=    -*++.    
+ :+-.       ..-.  .*%#%+.     =#%#-     .#%%#*+..=#%%.    :#%%*.      -%#%+     .+%%%=   .#%%*.    .
+   .--++:-+---.  .#%%#:     .*%##.     .###%+:  +###-    -###*     .:#%##=     :####-   :#%#+   .-=:
+                 *%#+.     .###*.     .####-  -##%#.   :+%#%*     --+#%#-     :####-   -#%%-   =+-  
+                :%%+      -###*      .###+.  -%#%+   :--###*    :-.-###:    .+%##%-   -#%#-  -+-    
+                :%+     --#%##.   ...##%+   .%%#-  .-: =%##   -=.  #%#.   .=-=%##-  .-#%*..-+-      
+                .#+...--: :#%+ .:--.###-    .#%#:-=-   -#%#:--:    +##+::--. .#%#=--#%##--=.        
+                  .-=..    .=--:.  -..       .-#=:      .-=:.       .-:.      .:...=###*-.          
+                                                                              .:--##%=              
+                                                                          .-=--..+%%-               
+                                                                        :*=.   :*%#-                
+                                                                       .#:   .+%%*.                 
+                                                                       :#-..=#%#=                   
+                                                                        -++##+-.                    
+                                                                           .   
+</pre>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F79333&center=true&vCenter=true&width=435&lines=DenDen+DEV)](https://git.io/typing-svg)
-
-  <img height="200" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F79333&center=true&vCenter=true&width=700&lines=Member+of+DenDen+DEV;Backend+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
-
-### Github stats :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FxFurEN&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  [![GitHub Streak](https://streak-stats.demolab.com?user=FxFurEN&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&card_width=380&card_height=222)](https://git.io/streak-stats)
-
-
-
-### Codewars :
-![Codewars](https://www.codewars.com/users/FxFurEN/badges/large)
 
 --- 
 ### Languages and Tools :
@@ -76,7 +89,17 @@
   <img width="12" />
 </p>
 
+--- 
+<h3 align="center">
+  <p>Have a good day!</p>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" 
+       alt="Visit homepage" 
+       width="300" 
+       height="300" />
+</h3>
 
+![](https://komarev.com/ghpvc/?username=fxfuren&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/char-al/char-al?color=black&logo=github&style=flat-square)
 <!--
 **FxFurEN/FxFurEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
