@@ -33,8 +33,6 @@
 --- 
 ### Languages and Tools :
 <p align="center"> 
-  <img src="https://github.com/remnawave.png" height="40" alt="remnawave logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" /> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
